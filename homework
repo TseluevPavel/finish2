@@ -1,0 +1,18 @@
+class Calculator:
+    def __init__(self, limit):
+        records = []
+
+
+class CaloriesCalculator(Calculator):
+    def add_record():
+        
+
+class CashCalculator(Calculator):
+
+
+
+class Record:
+    def __init__(self, amount, comment, date):
+        self.amount = amount
+        self.comment = comment
+        self.date = date
